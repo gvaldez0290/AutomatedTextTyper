@@ -22,6 +22,7 @@ Before running this script, ensure that you have Python and the PyAutoGUI librar
 
 ```bash
 pip install pyautogui
+
 Usage
 Open the web page or application where you want to input text.
 
