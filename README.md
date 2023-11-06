@@ -25,6 +25,7 @@ pip install pyautogui
 ```
 
 ## Usage
+
 Open the web page or application where you want to input text.
 
 Position your cursor in the appropriate text field where you want to input the text.
@@ -38,7 +39,8 @@ The script will automatically type out the lines of text specified in the lines_
 
 Sit back and let the script do the typing for you! This is especially useful when websites prevent you from directly copying and pasting text into their forms.
 
-Customization
+## Customization
+
 You can customize the lines_to_write list in the script to include the specific text you want to input into the form. Modify this list with your desired content.
 
 ```python
@@ -54,8 +56,10 @@ You can also adjust the pause time between PyAutoGUI commands by changing the py
 pyautogui.PAUSE = 0.5  # Adjust the pause time (in seconds) between commands
 ```
 
-Disclaimer
+## Disclaimer
+
 Please use this script responsibly and only on websites and applications where automating keystrokes is allowed and in compliance with their terms of service. Be aware that some websites may have security measures in place to detect and prevent automation.
 
-Author
+## Author
+
 Gerardo "Jerry" Valdez
