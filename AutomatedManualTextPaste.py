@@ -1,6 +1,6 @@
 import pyautogui
 import time
-
+v
 # Initial delay to allow you to switch to the window where you want to type
 time.sleep(5)
 
